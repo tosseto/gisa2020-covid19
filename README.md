@@ -23,3 +23,5 @@
 ## 外部リソース
 * 動画（YouTube）
 
+## 当日の様子
+  <img alt="集合写真" src="https://github.com/tosseto/gisa2020-covid19/blob/main/images/groupphoto.png" width="600" />
