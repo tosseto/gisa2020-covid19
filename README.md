@@ -11,7 +11,7 @@
 * ハッシュタグ：gisa2020-covid19
 
 ## パネリスト（発表資料のPDFはリンク先）
-* 瀬戸寿一（東京大学）：「趣旨説明〜COVID-19地理空間情報・地図化プロジェクトまとめ より〜」
+* [瀬戸寿一（東京大学）：「趣旨説明〜COVID-19地理空間情報・地図化プロジェクトまとめ より〜」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/00-COVID-19Intro.pdf)
 * [岩崎亘典（農研機構）：「COVID-19感染マップに見る地理情報可視化の利点と問題点」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/01-iwasaki.pdf)
 * [鈴木翼（新潟県保健衛生センター）：「感染症を地図に描くこと～公衆衛生の立場からの課題と展望」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/02-suzuki.pdf)
 * [西村雄一郎（奈良女子大学）：「時間地理学と感染症〜行動履歴データの分析と可視化について考える」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/03-nishimura.pdf)
