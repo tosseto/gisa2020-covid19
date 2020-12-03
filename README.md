@@ -22,6 +22,8 @@
 
 ## 外部リソース
 * 動画（YouTube）
+* [COVID-19地理空間情報・地図化プロジェクトまとめ@tosseto](https://hackmd.io/@tosseto/covid19geospatial)
+* [オープンソースGISの日本語・英語実習教材リスト by “Geo for all” in Japan@tosseto](https://hackmd.io/@tosseto/geoforalljapan)
 
 ## 当日の様子
   <img alt="集合写真" src="https://github.com/tosseto/gisa2020-covid19/blob/main/images/groupphoto.png" width="600" />
