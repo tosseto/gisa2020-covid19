@@ -21,6 +21,7 @@
 * [近藤康久（総合地球環境研究所）「コロナ時代の共同研究：オンラインツール利用状況調査をふまえて」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/07-kondo.pdf)
 
 ## その他リソース
+* [ご質問一覧](questions.md)
 * 動画（YouTube）
 * [COVID-19地理空間情報・地図化プロジェクトまとめ@tosseto](https://hackmd.io/@tosseto/covid19geospatial)
 * [オープンソースGISの日本語・英語実習教材リスト by “Geo for all” in Japan@tosseto](https://hackmd.io/@tosseto/geoforalljapan)
