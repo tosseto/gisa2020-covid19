@@ -23,7 +23,7 @@
 
 ## その他リソース
 * [ご質問一覧](questions.md)
-* [動画（YouTube）](http://img.youtube.com/vi/1hV2T-wySTk/0.jpg)](http://www.youtube.com/watch?v=1hV2T-wySTk "")
+* [動画（YouTube）](http://www.youtube.com/watch?v=1hV2T-wySTk)
 * [COVID-19地理空間情報・地図化プロジェクトまとめ@tosseto](https://hackmd.io/@tosseto/covid19geospatial)
 * [オープンソースGISの日本語・英語実習教材リスト by “Geo for all” in Japan@tosseto](https://hackmd.io/@tosseto/geoforalljapan)
 
