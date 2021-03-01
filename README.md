@@ -21,9 +21,11 @@
 * [阿児雄之（東京国立博物館）「クラウドワークによる図書館・博物館の休館動向調査：新たな全国的動向把握のかたちへ」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/06-ako.pdf)
 * [近藤康久（総合地球環境研究所）「コロナ時代の共同研究：オンラインツール利用状況調査をふまえて」](https://github.com/tosseto/gisa2020-covid19/blob/main/slides/07-kondo.pdf)
 
+## 当日の動画
+[![](http://img.youtube.com/vi/1hV2T-wySTk/0.jpg)](http://www.youtube.com/watch?v=1hV2T-wySTk "当日の動画")
+
 ## その他リソース
 * [ご質問一覧](questions.md)
-* [動画（YouTube）](http://www.youtube.com/watch?v=1hV2T-wySTk)
 * [COVID-19地理空間情報・地図化プロジェクトまとめ@tosseto](https://hackmd.io/@tosseto/covid19geospatial)
 * [オープンソースGISの日本語・英語実習教材リスト by “Geo for all” in Japan@tosseto](https://hackmd.io/@tosseto/geoforalljapan)
 
